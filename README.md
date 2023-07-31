@@ -32,23 +32,29 @@ FitLife Exercise and Yoga is a feature-rich mobile app designed to empower indiv
 
 5. Glutes
 
-6.
+![358340885_839588624349318_8368620549457604027_n](https://github.com/khrizllerjay/FitLife/assets/140982884/95629f9c-6784-4be8-a4d7-ce73f5f962e5)
+
 
 ![358317383_1324419771840413_304745631547806810_n](https://github.com/khrizllerjay/FitLife/assets/140982884/872c6073-0155-4432-a782-fe9a83c12200)
 
-7. Starting Fitness
+6. Starting Fitness
   
 ![358313554_1480234949398846_313729623923433564_n](https://github.com/khrizllerjay/FitLife/assets/140982884/6c63c7de-0469-4c7c-bfb8-ba4e26924f20)
 
-8 Congratulations
+7 Congratulations
 
 ![358336758_614162130563523_4177307959698510369_n](https://github.com/khrizllerjay/FitLife/assets/140982884/09ae25cc-fae1-47c4-ac37-590d879e9008)
 
-9. Nutrition or Tips
+8. Nutrition or Tips
+
+![358341505_9648140971924476_9174136457825632269_n](https://github.com/khrizllerjay/FitLife/assets/140982884/b9e38a26-884f-45d9-a8f8-047338cb0c12)
 
 # Demo Video
 
+https://l.messenger.com/l.php?u=https%3A%2F%2Fdrive.google.com%2Fdrive%2Ffolders%2F18V88OygBzDc1XyccHybOGkoGeTghrOfs%3Fusp%3Dsharing&h=AT18iMNL1kmd2IAiQops663ZJ3n4IdyVXj8LzFG5BD4h7R3Nq2gwYpDs_1KlunCm5cLUFrPvqLu2EADIOo2n_9S8ypzZZt5FkwNZFTGvXuzxGvtUjOcXkVHmzW5_805zbxyorw
+
 # Researcher or Developer:
+
 • Macaraeg, Khrizller Jay A.
 • Navida, James
 • Hilario, Michael Angelo
