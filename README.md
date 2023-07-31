@@ -19,23 +19,32 @@ FitLife Exercise and Yoga is a feature-rich mobile app designed to empower indiv
 
 2. Muscles
 
+![358339670_159462980497046_4146872570947374330_n](https://github.com/khrizllerjay/FitLife/assets/140982884/c16b8981-739a-4b31-a69f-2461463480fc)
+
 3. Abs
 
-4. Glutes
+![358317390_1728478230936284_5975097976269092414_n](https://github.com/khrizllerjay/FitLife/assets/140982884/73734548-c015-4368-b24c-ad134303a748)
 
-5. Yoga
+
+4. Legs
+
+![358336070_790768206107511_5162589910570773922_n](https://github.com/khrizllerjay/FitLife/assets/140982884/a41d0f94-756a-4e8b-b21e-7fbbf4723a10)
+
+5. Glutes
+
+6. Yoga
 
 ![358317383_1324419771840413_304745631547806810_n](https://github.com/khrizllerjay/FitLife/assets/140982884/872c6073-0155-4432-a782-fe9a83c12200)
 
-6. Starting Fitness
+7. Starting Fitness
 
 ![358313554_1480234949398846_313729623923433564_n](https://github.com/khrizllerjay/FitLife/assets/140982884/6c63c7de-0469-4c7c-bfb8-ba4e26924f20)
 
-7. Congratulations
+8. Congratulations
 
 ![358336758_614162130563523_4177307959698510369_n](https://github.com/khrizllerjay/FitLife/assets/140982884/09ae25cc-fae1-47c4-ac37-590d879e9008)
 
-8. Nutrition or Tips
+9. Nutrition or Tips
 
 # Demo Video
 
