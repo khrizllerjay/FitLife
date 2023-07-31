@@ -19,6 +19,18 @@ FitLife Exercise and Yoga is a feature-rich mobile app designed to empower indiv
 
 2. Muscles
 
+3. Abs
+
+4. Glutes
+
+5. Yoga
+
+6. Starting Fitness
+
+7. Congratulations
+
+8. Nutrition or Tips
+
 # Demo Video
 
 # Researcher or Developer:
