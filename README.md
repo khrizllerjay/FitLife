@@ -29,6 +29,8 @@ FitLife Exercise and Yoga is a feature-rich mobile app designed to empower indiv
 
 6. Starting Fitness
 
+![358313554_1480234949398846_313729623923433564_n](https://github.com/khrizllerjay/FitLife/assets/140982884/6c63c7de-0469-4c7c-bfb8-ba4e26924f20)
+
 7. Congratulations
 
 ![358336758_614162130563523_4177307959698510369_n](https://github.com/khrizllerjay/FitLife/assets/140982884/09ae25cc-fae1-47c4-ac37-590d879e9008)
